@@ -64,6 +64,20 @@
 .p-1{padding: 0.25em;}
 .p-2{padding: 0.5em;}
 
+.img-fluid{
+    max-width: 100%;
+    height: auto;
+}
+
+
+.card{
+    border: 1px solid lightgray;
+    box-shadow: lightgray 4px;
+    margin-left: 1.9em;
+    margin-bottom: 0.75em;
+    padding: 0.5em;
+}
+
 #contenedor{
     margin: 1em 3em;
     background-color: thistle;
